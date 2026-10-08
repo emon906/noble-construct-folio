@@ -11,7 +11,7 @@ export default function MapMarkerLabel() {
   const [failed, setFailed] = useState(false);
   useEffect(() => {
     let disposed = false;
-    import('maplibre-gl').then(({ default: maplibre }) => {
+    import('maplibre-gl').then((maplibre) => {
       if (disposed || !container.current) return;
       const map = new maplibre.Map({ container: container.current, style: 'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json', center: [90.4071, 23.7385], zoom: 14.6, attributionControl: { compact: true }, scrollZoom: false });
       mapRef.current = map;
