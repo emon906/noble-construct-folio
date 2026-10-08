@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Minus, Plus, MapPin } from 'lucide-react';
 import 'maplibre-gl/dist/maplibre-gl.css';
+import mapWorkerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
 
 export const directionsUrl = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent('74/1, Bir Uttam Shamsul Alam Road, Kakrail, Dhaka, Bangladesh');
 
@@ -13,6 +14,7 @@ export default function MapMarkerLabel() {
     let disposed = false;
     import('maplibre-gl').then((maplibre) => {
       if (disposed || !container.current) return;
+      maplibre.setWorkerUrl(mapWorkerUrl);
       const map = new maplibre.Map({ container: container.current, style: 'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json', center: [90.4071, 23.7385], zoom: 14.6, attributionControl: { compact: true }, scrollZoom: false });
       mapRef.current = map;
       const marker = document.createElement('div');
