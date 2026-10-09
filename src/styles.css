@@ -243,6 +243,6 @@ img { display: block; width: 100%; object-fit: cover; }
 .section-heading,.contact-panel h2 { overflow-wrap: normal; }
 @media(min-width: 961px) and (max-width: 1280px) { .nav-inner { gap: 16px; } .desktop-nav { gap: 13px; } .brand-subtitle { font-size: 8px; } .nav-cta { padding-inline: 14px; } }
 @media(min-width: 641px) and (max-width: 960px) { .hero-content { padding-top: 165px; } .intro-grid .section-heading { font-size: 56px; } .standard-item { padding-inline: 14px; } .standard-item h3 { overflow-wrap: anywhere; } }
-@media(max-width: 640px) { .cta-buttons { flex-wrap: wrap; } .footer-bottom { flex-wrap: wrap; } .hero-bottom { align-items: center; gap: 12px; } .hero-contact { max-width: 60%; } .company-details div { line-height: 1.85; } }
+@media(max-width: 640px) { .cta-buttons { flex-wrap: wrap; } .footer-bottom { flex-wrap: wrap; } .hero-bottom { align-items: center; gap: 12px; } .hero-contact { max-width: 60%; } .company-details div { line-height: 1.85; } .service-panel { padding-inline: 10px; } .service-panel h3 { hyphens: auto; } }
 @media(max-width: 380px) { .hero h1 { font-size: 64px; } .section-heading,.intro-grid .section-heading { font-size: 48px; } .cta-section .section-heading { font-size: 50px; } }
 @media(prefers-reduced-motion: reduce) { *,*::before,*::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }
