@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 
 const links = [['Home', 'home'], ['About', 'about'], ['Services', 'services'], ['Projects', 'projects'], ['Expertise', 'expertise'], ['Gallery', 'gallery'], ['Testimonials', 'trust'], ['Contact', 'contact']];
 export function Brand({ footer = false }: { footer?: boolean }) {
-  return <a href="#home" className={`brand ${footer ? 'brand-footer' : ''}`} aria-label="KD BUILDERS home"><span className="brand-name">KD <span>BUILDERS</span></span><span className="brand-subtitle">REAL ESTATE · DEVELOPER · CONSTRUCTION</span></a>;
+  return <a href="#home" className={`brand ${footer ? 'brand-footer' : ''}`} aria-label="KD BUILDER home"><span className="brand-name">KD <span>BUILDERS</span></span><span className="brand-subtitle">REAL ESTATE · DEVELOPER · CONSTRUCTION</span></a>;
 }
 export function SiteNavigation() {
   const [open, setOpen] = useState(false);
