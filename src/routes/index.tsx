@@ -9,7 +9,7 @@ import { TrustExperience } from '@/components/ui/3d-testimonails';
 
 const LocationMap = lazy(() => import('@/components/ui/mapcn-marker-label'));
 const directions = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent('74/1, Bir Uttam Shamsul Alam Road, Kakrail, Dhaka, Bangladesh');
-const emailLink = 'mailto:info@kdbuider.com?subject=Project%20enquiry%20%E2%80%94%20KD%20BUILDERS';
+const emailLink = 'mailto:info@kdbuider.com?subject=Project%20enquiry%20%E2%80%94%20KD%20BUILDER';
 export const Route = createFileRoute('/')({
   head: () => ({ meta: [
     { title: 'KD BUILDER | Real Estate, Development & Construction in Dhaka' },
