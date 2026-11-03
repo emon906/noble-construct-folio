@@ -12,7 +12,7 @@ const statements = [
 ];
 
 export function TrustExperience() {
-  return <div className="trust-stage" aria-label="KD BUILDERS brand principles, not customer reviews">
+  return <div className="trust-stage" aria-label="KD BUILDER brand principles, not customer reviews">
     <div className="trust-perspective">{[0, 1, 2].map(column => <div className={`trust-column trust-column-${column}`} key={column}>
       {[...statements.slice(column * 2, column * 2 + 2), ...statements.slice(column * 2, column * 2 + 2), ...statements.slice(column * 2, column * 2 + 2)].map(({ icon: Icon, title, label }, index) => <Card className="trust-card" key={index} aria-hidden={index > 1 ? true : undefined}>
         <Avatar className="trust-icon"><AvatarFallback><Icon size={21} strokeWidth={1.3} /></AvatarFallback></Avatar>

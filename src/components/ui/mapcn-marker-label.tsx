@@ -19,8 +19,8 @@ export default function MapMarkerLabel() {
       mapRef.current = map;
       const marker = document.createElement('div');
       marker.className = 'kd-map-marker';
-      marker.textContent = 'KD BUILDERS';
-      marker.setAttribute('aria-label', 'KD BUILDERS — Kakrail area, approximate location');
+      marker.textContent = 'KD BUILDER';
+      marker.setAttribute('aria-label', 'KD BUILDER — Kakrail area, approximate location');
       new maplibre.Marker({ element: marker }).setLngLat([90.4071, 23.7385]).addTo(map);
       map.on('error', () => setFailed(true));
       map.on('load', () => setFailed(false));

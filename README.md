@@ -3,7 +3,7 @@
 Create a completely new, ultra-premium luxury real estate, property development and construction website for:
 
 COMPANY NAME:
-KD BUILDERS
+KD BUILDER
 
 PROPRIETOR:
 Kafee Ahmed
@@ -22,7 +22,7 @@ BUSINESS CATEGORIES:
 Real Estate | Developer | Construction
 
 IMPORTANT:
-Use the uploaded KD BUILDERS logo as the official website logo.
+Use the uploaded KD BUILDER logo as the official website logo.
 Do NOT redesign or replace the logo.
 Build the entire visual identity around the logo's premium BLACK + GOLD aesthetic.
 
@@ -90,7 +90,7 @@ NAVBAR
 Create a premium transparent/floating navbar.
 
 Left:
-KD BUILDERS official logo.
+KD BUILDER official logo.
 
 Navigation:
 Home
@@ -125,7 +125,7 @@ Add a very dark black overlay with subtle gold lighting.
 Hero content:
 
 Small label:
-KD BUILDERS
+KD BUILDER
 
 Main headline:
 
@@ -177,7 +177,7 @@ DEFINED BY QUALITY.
 
 Text:
 
-KD BUILDERS brings together real estate development and construction with a focus on thoughtful design, quality execution and long-term value.
+KD BUILDER brings together real estate development and construction with a focus on thoughtful design, quality execution and long-term value.
 
 Create a premium split layout with:
 - large typography
@@ -192,18 +192,18 @@ with label:
 OUR APPROACH
 
 ==================================================
-SECTION 02 — ABOUT KD BUILDERS
+SECTION 02 — ABOUT KD BUILDER
 ==================================================
 
 Create a premium ABOUT section.
 
 Heading:
 
-ABOUT KD BUILDERS
+ABOUT KD BUILDER
 
 Content:
 
-KD BUILDERS is a real estate and construction-focused company committed to creating spaces with strong design, dependable execution and lasting value.
+KD BUILDER is a real estate and construction-focused company committed to creating spaces with strong design, dependable execution and lasting value.
 
 Proprietor:
 Kafee Ahmed
@@ -289,7 +289,7 @@ Urban Development
 Contemporary Villa
 Future Development
 
-DO NOT claim these are completed KD BUILDERS projects unless actual project information is provided.
+DO NOT claim these are completed KD BUILDER projects unless actual project information is provided.
 
 Use:
 - large image cards
@@ -371,7 +371,7 @@ Also integrate the required:
 IMPORTANT:
 The supplied demo contains fictional names and fake reviews.
 
-DO NOT publish those fake testimonials as real KD BUILDERS customer reviews.
+DO NOT publish those fake testimonials as real KD BUILDER customer reviews.
 
 Instead, adapt the visual component into a premium:
 
@@ -398,12 +398,12 @@ Do NOT present these as customer quotes.
 Keep the 3D scrolling visual effect from the supplied component.
 
 ==================================================
-SECTION 09 — WHY KD BUILDERS
+SECTION 09 — WHY KD BUILDER
 ==================================================
 
 Create another luxury section:
 
-WHY KD BUILDERS
+WHY KD BUILDER
 
 Use 5 premium points:
 
@@ -443,7 +443,7 @@ Use the MapLibre component with a premium dark map style.
 
 Add a custom gold marker/label:
 
-KD BUILDERS
+KD BUILDER
 
 Show the address beside the map in a luxury contact card.
 
@@ -467,7 +467,7 @@ Let's start the conversation.
 
 Buttons:
 
-Call KD BUILDERS
+Call KD BUILDER
 Start a Project
 
 Contact information:
@@ -485,7 +485,7 @@ SECTION 12 — FINAL CONTACT PANEL
 
 Create a sophisticated contact section with:
 
-KD BUILDERS
+KD BUILDER
 
 REAL ESTATE | DEVELOPER | CONSTRUCTION
 
@@ -512,7 +512,7 @@ Create a premium black footer.
 
 Show:
 
-KD BUILDERS
+KD BUILDER
 
 REAL ESTATE | DEVELOPER | CONSTRUCTION
 
@@ -636,7 +636,7 @@ Do NOT create a generic construction website.
 
 The final result should look like a premium international real estate developer / architecture / construction brand.
 
-Use the uploaded KD BUILDERS logo as the visual identity.
+Use the uploaded KD BUILDER logo as the visual identity.
 
 The logo's black and gold aesthetic must be reflected throughout the entire website.
 
